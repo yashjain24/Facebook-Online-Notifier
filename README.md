@@ -7,8 +7,8 @@ Load this unpackaged extension in chrome
 
 Type in the name you what to get notified about.
 
-That's It!!!  :-)
-
+That's It!!! 
+:-)
 
 Work To Be Done
 1. Name is taken at the time of extension reload, find a way to change name without reload.
